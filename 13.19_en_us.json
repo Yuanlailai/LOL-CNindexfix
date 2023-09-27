@@ -1,0 +1,99 @@
+{
+    "default": {
+        "navigation": [
+            {
+                "id": "overview",
+                "displayName": "Overview",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://static.rgpub.io/pcs/leagueclient/home-overview-focused/",
+                "priority": 10
+            },
+            {
+                "id": "briar-embed-2023",
+                "displayName": "BRIAR",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://embed.rgpub.io/wwpub-briar-embed-2023/en-us/",
+                "priority": 20
+            },
+            {
+                "id": "merch",
+                "displayName": "Merch",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/merch/",
+                "priority": 30
+            },
+            {
+                "id": "news",
+                "displayName": "Esports",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/news/",
+                "priority": 40
+            },
+            {
+                "id": "latest_patch_notes",
+                "displayName": "Patch Notes",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://static.rgpub.io/league-client/en-us/latest-patch-notes/",
+                "priority": 50
+            }
+        ]
+    },
+    "npe": {
+        "navigation": [
+            {
+                "id": "rcp-fe-lol-npe-rewards",
+                "displayName": "Journey",
+                "isPlugin": true,
+                "enabled": true,
+                "visible": true,
+                "priority": 10
+            },
+            {
+                "id": "briar-embed-2023",
+                "displayName": "BRIAR",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://embed.rgpub.io/wwpub-briar-embed-2023/en-us/",
+                "priority": 20
+            },
+            {
+                "id": "overview",
+                "displayName": "Overview",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://static.rgpub.io/pcs/leagueclient/home-overview-focused/",
+                "priority": 30
+            },
+            {
+                "id": "merch",
+                "displayName": "Merch",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/merch/",
+                "priority": 40
+            },
+            {
+                "id": "latest_patch_notes",
+                "displayName": "Patch Notes",
+                "isPlugin": false,
+                "enabled": true,
+                "visible": true,
+                "url": "https://static.rgpub.io/league-client/en-us/latest-patch-notes/",
+                "priority": 50
+            }
+        ]
+    }
+}
