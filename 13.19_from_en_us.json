@@ -21,7 +21,7 @@
             },
             {
                 "id": "merch",
-                "displayName": "Merch",
+                "displayName": "商品",
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
@@ -30,7 +30,7 @@
             },
             {
                 "id": "news",
-                "displayName": "Esports",
+                "displayName": "电子竞技",
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
@@ -39,7 +39,7 @@
             },
             {
                 "id": "latest_patch_notes",
-                "displayName": "Patch Notes",
+                "displayName": "更新日志",
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
