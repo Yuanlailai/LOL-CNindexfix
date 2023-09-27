@@ -7,7 +7,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://static.rgpub.io/pcs/leagueclient/home-overview-focused/",
+                "url": "https://static.rgpub.io/pcs/leagueclient/home-overview/",
                 "priority": 10
             },
             {
@@ -73,7 +73,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://static.rgpub.io/pcs/leagueclient/home-overview-focused/",
+                "url": "https://static.rgpub.io/pcs/leagueclient/home-overview/",
                 "priority": 30
             },
             {
