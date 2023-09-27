@@ -25,7 +25,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://akamai.embed.rgpub.io/pubhub/zh-tw/leagueclient/merch/",
+                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/merch/",
                 "priority": 30
             },
             {
@@ -34,7 +34,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://akamai.embed.rgpub.io/pubhub/zh-tw/leagueclient/news/",
+                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/news/",
                 "priority": 40
             },
             {
