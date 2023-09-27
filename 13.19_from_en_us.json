@@ -43,7 +43,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://static.rgpub.io/league-client/zh-tw/latest-patch-notes/",
+                "url": "https://static.rgpub.io/league-client/en-us/latest-patch-notes/",
                 "priority": 50
             }
         ]
@@ -91,7 +91,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://static.rgpub.io/league-client/zh-tw/latest-patch-notes/",
+                "url": "https://static.rgpub.io/league-client/en-us/latest-patch-notes/",
                 "priority": 50
             }
         ]
