@@ -3,7 +3,7 @@
         "navigation": [
             {
                 "id": "overview",
-                "displayName": "Overview",
+                "displayName": "总览",
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
@@ -12,11 +12,11 @@
             },
             {
                 "id": "briar-embed-2023",
-                "displayName": "BRIAR",
+                "displayName": "贝蕾亚",
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://embed.rgpub.io/wwpub-briar-embed-2023/en-us/",
+                "url": "https://embed.rgpub.io/wwpub-briar-embed-2023/zh-cn/",
                 "priority": 20
             },
             {
@@ -25,7 +25,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/merch/",
+                "url": "https://akamai.embed.rgpub.io/pubhub/zh-tw/leagueclient/merch/",
                 "priority": 30
             },
             {
@@ -34,7 +34,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/news/",
+                "url": "https://akamai.embed.rgpub.io/pubhub/zh-tw/leagueclient/news/",
                 "priority": 40
             },
             {
@@ -43,7 +43,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://static.rgpub.io/league-client/en-us/latest-patch-notes/",
+                "url": "https://static.rgpub.io/league-client/zh-tw/latest-patch-notes/",
                 "priority": 50
             }
         ]
@@ -64,7 +64,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://embed.rgpub.io/wwpub-briar-embed-2023/en-us/",
+                "url": "https://embed.rgpub.io/wwpub-briar-embed-2023/zh-cn/",
                 "priority": 20
             },
             {
@@ -82,7 +82,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://akamai.embed.rgpub.io/pubhub/en-us/leagueclient/merch/",
+                "url": "https://akamai.embed.rgpub.io/pubhub/zh-tw/leagueclient/merch/",
                 "priority": 40
             },
             {
@@ -91,7 +91,7 @@
                 "isPlugin": false,
                 "enabled": true,
                 "visible": true,
-                "url": "https://static.rgpub.io/league-client/en-us/latest-patch-notes/",
+                "url": "https://static.rgpub.io/league-client/zh-tw/latest-patch-notes/",
                 "priority": 50
             }
         ]
